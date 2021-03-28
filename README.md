@@ -26,6 +26,19 @@
 		- Fréchet Inception Distance
 		- Bias
 		- Components of StyleGAN
+		
+### Apply Generative Adversarial Networks (GANs)
+
+	#### Content
+		- GANs for Data Augmentation and Privacy
+		- Image-to-Image Translation with Pix2Pix
+		- Unpaired Translation with CycleGAN
+		
+	#### Programming Assigments
+		- Data Augmentation
+		- U-Net
+		- Pix2Pix
+		- CycleGAN
 
 		
 ### Erros in Viewing *.ipynb on a GitHub blob page.
