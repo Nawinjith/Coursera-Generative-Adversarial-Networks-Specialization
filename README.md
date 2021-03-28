@@ -14,6 +14,18 @@
 		- WGAN
 		- Conditional GAN
 		- Controllable Generation
+		
+### Build Better Generative Adversarial Networks (GANs)
+
+	#### Content
+		- Evaluation of GANs
+		- GAN Disadvantages and Bias
+		- StyleGAN and Advancements
+		
+	#### Programming Assigments
+		- Fréchet Inception Distance
+		- Bias
+		- Components of StyleGAN
 
 		
 ### Erros in Viewing *.ipynb on a GitHub blob page.
